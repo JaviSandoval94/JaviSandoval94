@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 - :book: I am currently reading [17 Equations that changed the world - Ian Stewart](https://www.businessinsider.com/17-equations-that-changed-the-world-2014-3?r=MX&IR=T#2-logarithms-2)
 
 ### Connect with me
-[<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/javier-sandoval-bustamante/?locale=en_US)
-[<img align="left" alt="JaviSandoval94 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/microsoftoutlook.svg" />](javier.sandoval94@outlook.com)<br>
+[<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/javier-sandoval-bustamante/?locale=en_US)<br>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
