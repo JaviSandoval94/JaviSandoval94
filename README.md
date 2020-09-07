@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Web Development using NodeJS, Angular and MongoDB](https://www.udemy.com/course/desarrollar-una-red-social-con-javascript-angular-y-nodejs-mongodb/learn/lecture/8569576?start=0#overview) and [SEO for Developers](https://www.udemy.com/course/curso-de-seo-online-y-posicionamiento-web-en-google/learn/lecture/12063392?start=0#overview) 
 - 👯 I’m looking to collaborate on open source and volunteering projects related to data analysis and data science applications on ecosystem conservation, resource usage efficiency, energy accessibility and smart energy. 
 - 🤔 I’m looking for help with web development for social networks and tech-based entrepreneurship.
-- 💬 Ask me about energy efficiency and sustainability!
+- 💬 Ask me about data analytics applied to energy efficiency!
 - ⚡ Fun fact: I love to dance, read and play the guitar.
 - :book: I am currently reading [17 equations that changed the world - Ian Stewart](https://www.businessinsider.com/17-equations-that-changed-the-world-2014-3?r=MX&IR=T#2-logarithms-2)
 
