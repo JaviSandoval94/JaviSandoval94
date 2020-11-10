@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with web development for social networks and tech-based entrepreneurship.
 - 💬 Ask me about data analytics applied to energy efficiency!
 - ⚡ Fun fact: I love to dance, read and play the guitar.
-- :book: I am currently reading [17 equations that changed the world - Ian Stewart](https://www.businessinsider.com/17-equations-that-changed-the-world-2014-3?r=MX&IR=T#2-logarithms-2)
+- :book: I am currently reading about investment and personal finance.
 
 ### Connect with me
 [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/javier-sandoval-bustamante/?locale=en_US)<br>
