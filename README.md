@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with web development for social networks and tech-based entrepreneurship.
 - 💬 Ask me about data analytics applied to energy efficiency!
 - ⚡ Fun fact: I love to dance, read and play the guitar.
-- :book: I am currently reading about investment and personal finance.
+- :book: I am currently reading [Learning PHP, MySQL and JavaScript](https://www.oreilly.com/library/view/learning-php-mysql/9781491979075/).
 
 ### Connect with me
 [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/javier-sandoval-bustamante/?locale=en_US)<br>
